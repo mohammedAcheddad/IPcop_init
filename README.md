@@ -78,6 +78,8 @@ the Aim is to:
 
 ![ping](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/d85b6e22-9a57-4e72-8d24-53524e2cdbb1)
 ![ping2](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/477aa902-65a2-4a9f-a7b7-bb5d8407fb1c)
+![drophttps](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/48bf0716-ea98-428b-8fd3-2bc992e0f597)
+
 
 ## Proxy Settings
 
@@ -91,6 +93,13 @@ the Aim is to:
 3.  Configure general proxy settings such as cache size, cache options, and DNS settings.
 4.  Customize proxy access controls, such as specifying allowed or denied sites, domains, or URLs.
 5.  Save the settings and restart the proxy service for the changes to take effect.
+
+![proxy](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/3bee494b-92bf-4d57-a7c9-e1873a6b4401)
+![proxy1](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/c4c866d0-8771-4775-bcfb-1942c090a888)
+![proxy2](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/465ed07d-73dd-4aa4-b813-2908e2b6d42c)
+![proxy3](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/406b0c54-5f88-4eb0-84f9-858727b75c44)
+![proxy4](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/32a0480f-ec7e-4bfe-8e10-2d5793530226)
+![proxy5](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/b7b140ed-75e3-4118-ba3e-4e40370c8fb7)
 
 ## VPN Configuration
 
@@ -106,6 +115,8 @@ I have created a vmnet and machine connected to it with the ip:192.168.37.128
 
 if the green machine is able to ping the remote machine the connection is good
 
+![ipsec](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/bf06bb61-bcf2-4a56-80a0-c997da9acea9)
+
 ## DNS Configuration
 
 IPCop provides DNS functionality to resolve domain names for the local network. To configure DNS in IPCop, follow these steps:
@@ -117,6 +128,8 @@ I used google DNS and It worked pretty fine
 3.  Configure the DNS settings, including primary and secondary DNS servers.
 4.  Specify local domains or overrides if needed.
 5.  Save the settings and restart the DNS service.
+
+![dns](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/c7c0fb7d-b5e5-4fc3-86f5-8fa91ea18d2b)
 
 ## Conclusion
 
