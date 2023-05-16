@@ -26,6 +26,8 @@ IP: **192.168.1.1** this is the default gateway
 -   **ORANGE Interface**: The ORANGE interface in our case is also connected to another LAN segment in which we will give adresses manually to each server (we have only a web server in our example)
 IP: **192.168.3.1** --- WEB server IP: **192.168.3.2** 
 
+![WhatsApp Image 2023-05-16 at 18 00 11](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/745f6041-be95-48bd-a760-5685e0a11ff2)
+
 
 ## Installation
 
@@ -45,6 +47,8 @@ the Aim is to:
 *  Accept ***http*** traffic from green zone to orange to make the web server accessible for the local network.
 * Deny all ***https*** traffic from green zone to red zone (internet).
 * Deny all ***ping***'s from green zone to the orange zone, to stop attackers that has access to the local network from scanning and accessing the orange zone 
+
+![firewallruleshttps](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/81e270b9-8184-4365-81d2-b24b7b3a8563)
 
 1.  Access the IPCop web interface by entering the IP address 192.168.1.1 (GREEN interface) in a web browser.
     
@@ -71,6 +75,9 @@ the Aim is to:
 	    -   Destination Port: pings 
     
 6.  Save the firewall rules and ensure that they are correctly ordered to allow the desired traffic.
+
+![ping](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/d85b6e22-9a57-4e72-8d24-53524e2cdbb1)
+![ping2](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/477aa902-65a2-4a9f-a7b7-bb5d8407fb1c)
 
 ## Proxy Settings
 
