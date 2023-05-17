@@ -126,7 +126,7 @@ if the green machine is able to ping the remote machine the connection is good
 
 IPCop provides DNS functionality to resolve domain names for the local network. To configure DNS in IPCop, follow these steps:
 
-I used google DNS and It worked pretty fine
+I used google DNS and It worked pretty fine (***8.8.8.8*** primary and ***192.168.3.10*** in DMZ)
 
 1.  Access the IPCop web interface.
 2.  Navigate to `Services -> DNS`.
