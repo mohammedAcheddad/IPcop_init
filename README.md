@@ -94,10 +94,15 @@ the Aim is to:
 4.  Customize proxy access controls, such as specifying allowed or denied sites, domains, or URLs.
 5.  Save the settings and restart the proxy service for the changes to take effect.
 
+* first we need to configure (proxy in ipcop,browser config):
 ![proxy](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/3bee494b-92bf-4d57-a7c9-e1873a6b4401)
-![proxy1](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/c4c866d0-8771-4775-bcfb-1942c090a888)
-![proxy2](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/465ed07d-73dd-4aa4-b813-2908e2b6d42c)
+![proxy2](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/465ed07d-73dd-4aa4-b813-2908e2b6d42c)  
+* now we block the web server url and test:  
+
 ![proxy3](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/406b0c54-5f88-4eb0-84f9-858727b75c44)
+![proxy1](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/c4c866d0-8771-4775-bcfb-1942c090a888)  
+* this is the connections log as you can see the client asks the the proxy for access:  
+
 ![proxy4](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/32a0480f-ec7e-4bfe-8e10-2d5793530226)
 ![proxy5](https://github.com/mohammedAcheddad/IPcop_init/assets/105829473/b7b140ed-75e3-4118-ba3e-4e40370c8fb7)
 
